@@ -1,0 +1,228 @@
+body {
+	margin: 0;
+
+}
+.header-section {
+	background-color:#3B5998; 
+	overflow: hidden;
+ 
+}
+.conteiner {
+	width: 65%;
+	margin: auto;
+}
+.logo {
+	width: 30%;
+	float: left;
+}
+.logo img {
+	width: 70%;
+	padding-top: 15px;
+
+}
+.main header{
+	padding: 9px 0 2px 0;
+
+}
+.login {
+	width: 70%;
+	overflow: hidden;
+}
+
+.form1{
+	float: right;
+	padding-top: 10px;
+
+}
+.username{
+	float: left;
+	margin-right: 15px;
+
+
+}
+
+.pass{
+	float: left;
+	overflow: hidden;
+	margin-right: 15px;
+
+}
+
+.login-btn{
+	float: left;
+
+}
+
+.login label,a{
+	display: block;
+	color: white;
+	padding: 5px 0;
+
+}
+
+.login a{
+	color: #9CB4D8;
+	text-decoration: none;
+}
+.login a:hover{
+	text-decoration: underline;
+}
+.login .form1 input[type="text"], .pass input[type="password"]{
+	height: 21x;
+	width: 150px;
+}
+.login input[type="button"]{
+	background-color: #4267B2;
+	border: 5px solid rgba (0,0,0,.4);
+	color: white;
+	padding: 4px 7px;
+	font-weight: 700;
+	margin-top: 28px;
+}
+.main-body{
+	background-image: linear-gradient(white, #D3D8E8);
+	overflow: hidden;
+}
+.main-body .pic{
+	width: 55%;
+	float: left;
+
+}
+.main-body .pic h2{
+	width: 92%;
+	padding: 20px 0;
+	color: #0E385F;
+	font-weight: 700;
+	font-size: 22px;
+
+}
+.main-body .pic img{
+	width: 100%;
+
+
+}
+.main-body .sign-up{
+	width: 41%;
+	float: right;
+	overflow: hidden;
+}
+.main-body .sign-up h1{
+	font-weight: 700;
+	font-size: 40px;
+	color: #333333;
+	margin-bottom: 10px;
+
+}
+.main-body .sign-up .form2 input[type="text"], .form2 input[type="password"]{
+	display: block;
+	width: 100%;
+	padding: 5px;
+	margin: 10px 0;
+	border-radius: 5px;
+	font-size: 20px;
+	border: 1px solid #BDC7D8;
+	box-sizing: border-box;
+}
+.main-body .sign-up input[type="password"]{
+	padding: 18px 5px;
+
+}
+.main-body .sign-up .lbl{
+	display: block;
+	font-size: 18px;
+	padding: 10px 0;
+	color: gray;
+
+}
+.main-body .sign-up select{
+	border: none;
+	font-size: 13px;
+	padding: 5px;
+
+}
+.main-body .sign-up label{
+	font-size: 23px;
+	padding-right: 15px;
+
+}
+.main-body .sing-up p{
+	font-size: 13px;
+	width: 80%;
+	color: #808081
+;
+
+}
+.main-body .sign-up p a{
+	display: inline-block;
+	padding: 0;
+	color: #385898;
+
+}
+.main-body .sign-up input[type="button"]{
+	background-color: #5F9A4C;
+	border: 1px solid rgba(0,0,0,.4);
+	border-radius: 5px;
+	padding: 8px 70px;
+	color: white;
+	font-size: 20px;
+	font-weight: 500;
+	margin: 25px 0;
+
+}
+.main-body .signup p:last-child{
+	font-size: 15px;
+	font-weight: 700;
+
+}
+.footer
+{
+ width:100%;
+ clear:both;
+ float:left;
+ margin-top:30px;
+ min-width:995px;
+ background-color:white;
+ text-align:left;
+}
+.footer1
+{
+ width:980px;
+ margin:0px auto;
+ padding:0px;
+ border-bottom:1px solid #E6E6E6;
+ height:30px;
+ font-size:12px;
+ color:#848484;
+}
+.footer1 a
+{
+ color:#365899;
+ display:inline;
+ margin-left:10px;
+ text-decoration:none;
+}
+.footer1 a:hover
+{
+ text-decoration:underline;
+}
+.footer2
+{
+ width:980px;
+ margin:0px auto;
+ padding:0px;
+ font-size:12px;
+ color:#848484;
+}
+.footer2 a
+{
+ color:#365899;
+ display:inline-block;
+ margin:5px;
+ margin-left:0px;
+ min-width: 30px;
+ text-decoration:none;
+}
+.footer2 a:hover
+{
+ text-decoration:underline;
+}
